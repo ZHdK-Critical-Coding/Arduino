@@ -1,0 +1,8 @@
+name: "Keyboard Button"
+date: 2026-09-17
+author: Urs Hofer
+technology: "Arduino"
+maincategory: utilities
+category: arduino
+readme: "Button Sketch/readme.md"
+related: P5_Input_Devices_EnterKey
